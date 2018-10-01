@@ -25,7 +25,7 @@ def get_secret_word():
     Returns:
         Single word from a list
     """
-    pass
+    passkjhlkjh
 
 
 def word_is_solved(word, guesses):
